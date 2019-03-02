@@ -5,6 +5,7 @@ Selenium 학습 목적으로 Selenium의 ChromeDriver을 활용하여 네이버 
 C#(.NET Framework 4.6.1) ConsoleApp
 
 # 코멘트
+- 지적 좋아합니다.
 - 사용 방법에 대해서는 질문을 받지 않고 있습니다.
 - 이 프로그램은 수정 후 컴파일없이 실행하면 작동하지 않습니다.
 - 네이버 로그인 시 계정 정보 입력을 단순히 SendKeys를 사용하면 봇으로 감지되는 것으로 예상되어 Clipboard를 활용하였습니다.
