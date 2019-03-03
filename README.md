@@ -17,6 +17,10 @@ C#(.NET Framework 4.6.1) ConsoleApp
 - 이 프로그램에 네이버 계정 정보(특히 암호)를 기입할 때에는 각별한 주의를 요합니다.
 - 이 프로그램은 Selenium의 라이선스인 Apache 2.0을 다릅니다.
 
+# 구현해 본 기능
+- 특정 사용자의 최근 게시물 1개 삭제
+- 새로운 게시물 업로드(이미지와 함께)
+
 # 설정
 - ```.\ChromeAutomation\Program.cs:27``` 네이버 카페 고유 ID: 네이버 카페 카테고리 중 전체글보기를 우클릭하여 복사한 링크의  ```search.clubid``` 값입니다.
 - ```.\ChromeAutomation\Program.cs:30``` 네이버 카페 URL: 네이버 카페의 URL입니다.
