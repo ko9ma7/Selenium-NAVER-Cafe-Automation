@@ -12,10 +12,10 @@ using Keys = OpenQA.Selenium.Keys;
         2019. 03. 03.
         (C) 2019 Yoo Donghoon.
 
-        Blog: https://donghoon.me
+        Blog: https://blog.donghoonyoo.com
         Github: https://github.com/donghoony1
 
-        yoodonghoon01@gmail.com(yoodonghoon@icloud.com)
+        yoodonghoon01@gmail.com
 
 */
 
